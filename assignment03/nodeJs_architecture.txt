@@ -1,0 +1,1 @@
+ Node.js is a server-side runtime environment that enables executing JavaScript on servers. Its non-blocking, event-driven architecture supports efficient handling of many connections. By using a single language across front-end and back-end, Node.js facilitates scalable, real-time applications with an extensive package ecosystem for rapid development. 

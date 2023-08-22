@@ -1,0 +1,14 @@
+{
+  "name": "assignmet02",
+  "version": "1.0.2",
+  "description": "writing file",
+  "main": "node js write file",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "assignmet02"
+  ],
+  "author": "nitish",
+  "license": "ISC"
+}

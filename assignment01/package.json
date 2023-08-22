@@ -1,0 +1,17 @@
+{
+  "name": "nodejs_assingmet_01",
+  "version": "1.0.1",
+  "description": "creating package.json file",
+  "main": "first assignment question",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "pw",
+    "assignmet",
+    "node",
+    "js"
+  ],
+  "author": "nitish official",
+  "license": "ISC"
+}

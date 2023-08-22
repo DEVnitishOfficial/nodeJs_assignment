@@ -1,0 +1,11 @@
+{
+  "name": "assignment05_delete_file",
+  "version": "1.0.5",
+  "description": "delete_file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nitish",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "assignment04",
+  "version": "1.0.4",
+  "description": "add new data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "entre",
+    "new",
+    "data"
+  ],
+  "author": "nitish",
+  "license": "ISC"
+}
